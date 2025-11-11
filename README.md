@@ -91,9 +91,3 @@ The test suite includes:
 ```bash
 python test_oop.py
 
-
----
-
-If you want, I can also **write a short version of “how I’m doing”** to include in case your teacher asks about your progress — something like “I’m still a bit confused with the OOP transactions but making progress.”  
-
-Do you want me to add that too?
